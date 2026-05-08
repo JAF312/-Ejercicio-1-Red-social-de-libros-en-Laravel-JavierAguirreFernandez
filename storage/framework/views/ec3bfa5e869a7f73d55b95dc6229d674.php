@@ -1,0 +1,1 @@
+<h1> hola <?php echo e($nombre); ?> </h1><?php /**PATH /var/www/html/resources/views/hola.blade.php ENDPATH**/ ?>
